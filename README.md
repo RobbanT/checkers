@@ -1,4 +1,4 @@
-[Checkers](/checkers.png)
+![Checkers](/checkers.png)
 
 Spelet Checkers är ett brädspel som spelas av två spelare (Spelare 1 och Spelare 2). Varje spelare har 12 brickor och målet är att en av spelarna antingen ska lyckas få bort moståndarspelarens alla brickor från spelbrädet eller lyckas göra så att moståndarspelaren inte längre kan flytta några av sina brickor. Spelare 1:s brickor är markerade med 'x' och 'X' . Spelare 2:s brickor är markerade med 'o' och 'O'.
 
