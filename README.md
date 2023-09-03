@@ -1,4 +1,5 @@
 ![Checkers](/checkers.png)
+
 Spelet Checkers är ett brädspel som spelas av två spelare (Spelare 1 och Spelare 2). Varje spelare har 12 brickor och målet är att en av spelarna antingen ska lyckas få bort moståndarspelarens alla brickor från spelbrädet eller lyckas göra så att moståndarspelaren inte längre kan flytta några av sina brickor. Spelare 1:s brickor är markerade med 'x' och 'X' . Spelare 2:s brickor är markerade med 'o' och 'O'.
 
 Vid ett nytt spel börjar alltid Spelare 1. När en spelare ska flytta en av sina brickor måste alltid koordinaterna (rad och kolumn) anges för rutan som brickan befinner sig. Sedan måste koordinaterna för rutan som man vill flytta brickan till anges. När detta är gjort är det nästa spelares tur om inte ett så kallat dubbelhopp kan utföras efter ett utfört hopp (mer om detta nedan).
