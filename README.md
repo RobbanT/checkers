@@ -14,3 +14,4 @@ Båda spelarnas brickor kan ha två olika typer av status. Antingen är en brick
 Som standard är alla brickor okrönta i början av ett nytt spel. För att en bricka ska bli krönt måste den nå den sista raden på spelbrädet. Mer exakt måste någon av Spelare 1:s brickor nå rad 8 och någon av Spelare 2:s brickor måste nå rad 1.
 
 Notera att om en bricka skulle bli krönt efter ett hopp så kan inte denna bricka utföra något dubbelhopp trots att det skulle vara möjligt med en okrönt bricka.
+---
